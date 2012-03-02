@@ -12,7 +12,7 @@
 
   <mediaobject>
     <imageobject>
-      <imagedata fileref="media/martin-luther-king.jpg"></imagedata>
+      <imagedata fileref="../../media/martin-luther-king.jpg"></imagedata>
     </imageobject>
   </mediaobject>
 </section>

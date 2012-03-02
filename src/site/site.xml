@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/DECORATION/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd"
+	name="DocBook">
+
+
+
+	<bannerLeft>
+		<name>Maven</name>
+		<src>http://maven.apache.org/images/apache-maven-project.png</src>
+		<href>http://maven.apache.org/</href>
+	</bannerLeft>
+
+	<bannerRight>
+		<src>http://maven.apache.org/images/maven-small.gif</src>
+	</bannerRight>
+
+	<body>
+		<links>
+			<item name="Docbkx Plugin" href="http://docbkx-tools.sourceforge.net" />
+			<item name="PDF Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-pdf-mojo.html" />
+			<item name="HTML Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-html-mojo.html" />
+			<item name="RTF Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-rtf-mojo.html" />
+			<item name="ePUB Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-epub-mojo.html" />
+			
+		</links>
+
+		<menu name="Book formats">
+			<item name="HTML" href="../docbkx/html/book.html" />
+			<item name="XHTML" href="../docbkx/xhtml/book.xhtml" />
+			<item name="PDF" href="../docbkx/pdf/book.pdf" />
+			<item name="WebHelp" href="../docbkx/webhelp/book/content/index.html" />
+			<item name="ePub" href="../docbkx/epub/book.epub" />
+			<item name="Docbook (dbk)" href="../docbkx/generated/(gen)book.dbk" />
+			<item name="Eclipse" href="../docbkx/eclipse/book/index.xml" />
+			<item name="RTF" href="../docbkx/rtf/book.rtf" />
+			<!--item name="Manpages"  /-->
+		</menu>
+
+	</body>
+</project>
