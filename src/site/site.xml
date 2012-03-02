@@ -20,11 +20,10 @@
 	<body>
 		<links>
 			<item name="Docbkx Plugin" href="http://docbkx-tools.sourceforge.net" />
-			<item name="PDF Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-pdf-mojo.html" />
-			<item name="HTML Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-html-mojo.html" />
-			<item name="RTF Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-rtf-mojo.html" />
-			<item name="ePUB Config" href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-epub-mojo.html" />
-			
+			<item name="PDF Config"
+				href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-pdf-mojo.html" />
+			<item name="HTML Config"
+				href="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/generate-html-mojo.html" />
 		</links>
 
 		<menu name="Book formats">
@@ -36,7 +35,7 @@
 			<item name="Docbook (dbk)" href="../docbkx/generated/(gen)book.dbk" />
 			<item name="Eclipse" href="../docbkx/eclipse/book/index.xml" />
 			<item name="RTF" href="../docbkx/rtf/book.rtf" />
-			<!--item name="Manpages"  /-->
+			<!--item name="Manpages" / -->
 		</menu>
 
 	</body>
